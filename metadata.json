@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "id": "2u-EhkpWhog-95jce8Q6qctfZB50yNox",
+        "plugin": "advanced-canvas",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "6.0.1",
+        "title": "Advanced Canvas",
+        "description": "高级画布本地化和调整",
+        "hash": "33230a5433230a5433230a5433230a54",
+        "created_at": "2026-05-11T03:38:28.702Z",
+        "updated_at": "2026-05-11T03:38:28.702Z"
+    },
+    {
+        "id": "w788S8SXX7FMIwv67vseW4HWwmqJEoUG",
+        "plugin": "quickadd",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.12.0",
+        "title": "QuickAdd",
+        "description": "QuickAdd Localization & Tweaks",
+        "hash": "0c06aafa0c06aafa0c06aafa0c06aafa",
+        "created_at": "2026-05-11T03:38:28.700Z",
+        "updated_at": "2026-05-11T03:38:28.700Z"
+    }
+]
